@@ -1,0 +1,3 @@
+kate|War and Peace|Tolstoy|ELECTRONICBOOK
+lera|Crime and Punishment|Dostoevsky|ELECTRONICBOOK
+sasha|1984|Orwell|ELECTRONICBOOK
