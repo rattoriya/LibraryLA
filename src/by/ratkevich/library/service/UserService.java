@@ -1,4 +1,4 @@
-package by.ratkevich.library;
+package by.ratkevich.library.service;
 
 public interface UserService {
     boolean authorisation (String userName, String password, boolean isAdmin);

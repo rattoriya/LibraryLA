@@ -2,7 +2,7 @@ package by.ratkevich.library.service.impl;
 
 import by.ratkevich.library.service.BookService;
 import by.ratkevich.library.service.EmailService;
-import by.ratkevich.library.UserService;
+import by.ratkevich.library.service.UserService;
 
 public class ProviderService {
 

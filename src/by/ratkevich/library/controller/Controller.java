@@ -3,7 +3,7 @@ package by.ratkevich.library.controller;
 import by.ratkevich.library.presentation.AdminConsole;
 import by.ratkevich.library.presentation.UserConsole;
 import by.ratkevich.library.presentation.Viewer;
-import by.ratkevich.library.UserService;
+import by.ratkevich.library.service.UserService;
 import by.ratkevich.library.service.impl.ProviderService;
 
 public class Controller {

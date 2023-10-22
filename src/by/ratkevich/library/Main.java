@@ -1,3 +1,5 @@
+package by.ratkevich.library;
+
 import by.ratkevich.library.controller.Controller;
 
 import java.util.Scanner;
