@@ -2,7 +2,7 @@ package by.ratkevich.library.service.impl;
 
 import by.ratkevich.library.dao.UserDAO;
 import by.ratkevich.library.dao.impl.ProviderDAO;
-import by.ratkevich.library.service.UserService;
+import by.ratkevich.library.UserService;
 
 public class UserServiceImpl implements UserService {
 
